@@ -1,0 +1,67 @@
+.images {
+    width: 250px;
+    height: 250px;
+}
+
+.menu {
+    margin-top: 0px;
+    width: 100%;
+    list-style: none;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.link {
+    padding-top: 5px;
+    padding-right: 40px;
+    padding-left: 30px;
+    font-size: 35px;
+    display: inline;
+}
+
+.links:hover {
+    background-color: darkmagenta;
+}
+
+#mainimg {
+    width: 1250px;
+    height: 1250px;
+    border-color: darkblue;
+    border-style: dotted;
+    border-width: medium;
+}
+
+#h1 {
+    color: dodgerblue;
+    font-family: fantasy;
+    font-size: 50px:
+}
+
+#h2 {
+    color: darkgrey;
+    font-family: monospace;
+    font-size: 29px;
+}
+
+#home {
+    background: linear-gradient(#738beb 0%, #ed6da9 100%);
+}
+
+body {
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+#gridveiw {
+    background: linear-gradient(#214dfc 0%, #7591ff 100%);
+}
+
+html{
+    scroll-behavior: smooth;
+}
